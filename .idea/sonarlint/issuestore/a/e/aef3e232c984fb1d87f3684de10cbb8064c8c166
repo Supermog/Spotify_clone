@@ -1,0 +1,49 @@
+
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(ø¥Æ“şÿÿÿÿ
+E
+java:S3740+"/Provide the parametrized type for this generic.(½úäã
+M	java:S106B"9Replace this use of System.out or System.err by a logger.(ã¶“%
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(óª÷û
+M	java:S106_"9Replace this use of System.out or System.err by a logger.(òÀ£&
+\	java:S899X"BDo something with the "boolean" value returned by "createNewFile".(ùŞ½Êûÿÿÿÿ
+O	java:S106‹"9Replace this use of System.out or System.err by a logger.(Íôˆ‘
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(öÊ¬Ó
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(˜á‡6
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(¡¦Îß
+S	java:S106="9Replace this use of System.out or System.err by a logger.(­ÿ‰°øÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(À…ıóşÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(áà¸—
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ó—·–øÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ùë¬’
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(ˆá–Úıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(îÒèäıÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(Òçª¿ùÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ÚæÒ•
+E
+java:S3740"/Provide the parametrized type for this generic.(Ã½È
+c
+java:S2095z"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ÿÏâùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒÅ‹øÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(©»œ¥
+E
+java:S1066!"/Merge this if statement with the enclosing one.(ñÙğ½
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(çïÂüÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ö²ƒ²úÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÿĞúÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(ëç Âùÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(àö–µıÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(­ššùÿÿÿÿ
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ä¨Øê
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(ç˜æ¦
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(–µ”ó
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(£ÔÍÜ
+“
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(À…ıóşÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¶ã˜üÿÿÿÿÿ
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(Ù®§f
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(ÒÙœÜ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì•„¼ùÿÿÿÿ
+?
+java:S1125”"(Remove the literal "true" boolean value.(ôÖ™¦
